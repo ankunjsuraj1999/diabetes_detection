@@ -14,7 +14,7 @@
 * Now we can use this cleaned dataframe in the next two part of our analysis.
 
 
-## Statistical Analysis of the data and visualising the data using visualization mathods
+## Statistical Analysis of the data and visualising the data using visualization methods
 * In this, we used python libraries like, matplotlib, seaborn for data visualization and scipy.stats for statical analysis of data. Using seaborn we can plot count-plot and box-plot.
 * We also analysed that whether obesity is related to diabetes or not. Similarly we also analysed whether age is related to diabetes or not. This can be achieved by using cross-tab.
 * We have looked at single columns i.e., **Univariate Analysis** and also looked at the relationship between two columns i.e., **Bivariate Analysis**.
